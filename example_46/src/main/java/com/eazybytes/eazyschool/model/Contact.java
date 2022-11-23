@@ -9,7 +9,7 @@ public class Contact {
     private String mobileNum;
     private String email;
     private String subject;
-    private String messages;
+    private String message;
     private String status;
 
 }
